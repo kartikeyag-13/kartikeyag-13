@@ -176,7 +176,7 @@ Most of the actual experiments, projects and unfinished machinery live in the re
 **The profile is the archive.  
 The repositories are the workshop.**
 
-<p align="center">
+<p >
 
 <a href="https://github.com/kartikeyag-13?tab=repositories">
   <img src="https://img.shields.io/badge/ENTER_THE_ARCHIVE-3C2A21?style=for-the-badge&labelColor=0e0c0c&color=ff00ff" alt="Enter the archive">
