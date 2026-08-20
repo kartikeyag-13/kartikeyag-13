@@ -16,7 +16,7 @@
 
 ### 🕯️ Who Goes There
 
-I'm **Kartikeya** — a Computer Engineering student who treats software the way an old craftsman treats a trade: learn the fundamentals cold, then build things that actually work. Right now I'm deep in **DSA**, **AI/ML**, **cybersecurity (adversarial learning)**, and **data analysis** — not as separate boxes, but as one toolkit for building things that are both *intelligent* and *hard to break*.
+I'm **Kartikeya** — a Computer Engineering student who treats software the way an old craftsman treats a trade: learn the fundamentals cold, then build things that actually work. Right now I'm deep in **DSA**, **AI/ML** and **data analysis** — not as separate boxes, but as one toolkit for building things that are both *intelligent* and *hard to break*.
 
 I like systems I can trust, code I can defend in a review, and models I understand well enough to attack.
 
@@ -54,7 +54,6 @@ I like systems I can trust, code I can defend in a review, and models I understa
 
 - 🔬 Studying **Vision-Language Models** (LLaVA architecture, ViT internals) and adversarial perturbations in visual token space
 - 🧠 Sharpening **C++ DSA** — linked lists, sorting, stack implementations
-- 🎯 Building toward **Samsung PRISM → Samsung R&D India → Samsung R&D Korea**
 - 🥋 Running a structured fitness split alongside the grind
 
 <br/>
