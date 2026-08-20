@@ -51,76 +51,98 @@ I like understanding how things work underneath the abstraction, then building s
 
 ---
 
-# ⚗ MY ARSENAL
+## ⚗ MY ARSENAL
 
 <p align="center">
 
 <a href="https://isocpp.org/" title="C++">
-  <img src="https://cdn.simpleicons.org/cplusplus/F5E6D3" width="48" alt="C++">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.python.org/" title="Python">
-  <img src="https://cdn.simpleicons.org/python/F5E6D3" width="48" alt="Python">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-  <img src="https://cdn.simpleicons.org/html5/F5E6D3" width="48" alt="HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-  <img src="https://cdn.simpleicons.org/css3/F5E6D3" width="48" alt="CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://git-scm.com/" title="Git">
-  <img src="https://cdn.simpleicons.org/git/F5E6D3" width="48" alt="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://github.com/" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/F5E6D3" width="48" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52">
 </a>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <a href="https://numpy.org/" title="NumPy">
-  <img src="https://cdn.simpleicons.org/numpy/F5E6D3" width="48" alt="NumPy">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://pandas.pydata.org/" title="Pandas">
-  <img src="https://cdn.simpleicons.org/pandas/F5E6D3" width="48" alt="Pandas">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://pytorch.org/" title="PyTorch">
-  <img src="https://cdn.simpleicons.org/pytorch/F5E6D3" width="48" alt="PyTorch">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52">
 </a>
 &nbsp;&nbsp;
 
 <a href="https://matplotlib.org/" title="Matplotlib">
-  <img src="https://cdn.simpleicons.org/matplotlib/F5E6D3" width="48" alt="Matplotlib">
-</a>
-&nbsp;&nbsp;
-
-<a href="https://seaborn.pydata.org/" title="Seaborn">
-  <img src="https://cdn.simpleicons.org/seaborn/F5E6D3" width="48" alt="Seaborn">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52">
 </a>
 
 </p>
 
 <p align="center">
-  <sub>
-    C++ · Python · HTML · CSS · Git · GitHub · NumPy · Pandas · PyTorch ·
-    Matplotlib · Seaborn · NLP · Computer Vision · VLMs
-  </sub>
+<sub>
+C++ · Python · HTML · CSS · Git · GitHub · NumPy · Pandas · PyTorch · Matplotlib
+</sub>
 </p>
 
+---
+
+### ✦ DOMAINS
+
 <p align="center">
-  <sub>✦ CLICK THE GLYPHS TO ENTER THE ARCHIVES ✦</sub>
+
+<a href="https://en.wikipedia.org/wiki/Deep_learning">
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-3C2A21?style=for-the-badge&labelColor=0E0C0C&color=FF00FF">
+</a>
+
+&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Computer_vision">
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-3C2A21?style=for-the-badge&labelColor=0E0C0C&color=FF00FF">
+</a>
+
+&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing">
+<img src="https://img.shields.io/badge/NLP-3C2A21?style=for-the-badge&labelColor=0E0C0C&color=FF00FF">
+</a>
+
+&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/Vision%E2%80%93language_model">
+<img src="https://img.shields.io/badge/VLMs-3C2A21?style=for-the-badge&labelColor=0E0C0C&color=FF00FF">
+</a>
+
 </p>
 
 ---
