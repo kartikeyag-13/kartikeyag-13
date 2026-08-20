@@ -147,27 +147,7 @@ C++ · Python · HTML · CSS · Git · GitHub · NumPy · Pandas · PyTorch · M
 
 ---
 
-## 📜 CURRENTLY INSCRIBING
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   [01] VISION                                                │
-│        Computer Vision                                      │
-│                                                              │
-│   [02] LANGUAGE                                              │
-│        Vision-Language Models                                │
-│                                                              │
-│   [03] INTELLIGENCE                                          │
-│        Deep Learning / Neural Networks                       │
-│                                                              │
-│   [04] ALGORITHM                                             │
-│        Data Structures & Algorithms                           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
 
 ## 🜏 THE WORKSHOP
 
