@@ -133,11 +133,6 @@ The repositories are the workshop.**
 
 ---
 
-## ☩ CONTRIBUTION MANUSCRIPT
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeyag-13&theme=dark&background=0e0c0c&border=3c2a21&ring=ff00ff&fire=f5e6d3&currStreakLabel=f5e6d3" width="70%" alt="GitHub streak">
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeyag-13&bg_color=0e0c0c&color=f5e6d3&line=ff00ff&point=f5e6d3&area=true&hide_border=true" width="95%" alt="GitHub activity graph">
