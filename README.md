@@ -51,45 +51,76 @@ I like understanding how things work underneath the abstraction, then building s
 
 ---
 
-## ⚗ MY ARSENAL
-
-<table>
-<tr>
-<td align="center"><b>LANGUAGES</b></td>
-<td align="center"><b>ML / AI</b></td>
-<td align="center"><b>DATA / VISION</b></td>
-<td align="center"><b>TOOLS</b></td>
-</tr>
-<tr>
-<td align="center">
-<code>C++</code><br>
-<code>Python</code><br>
-<code>HTML</code><br>
-<code>CSS</code>
-</td>
-<td align="center">
-<code>PyTorch</code><br>
-<code>Neural Networks</code><br>
-<code>Deep Learning</code><br>
-<code>NLP</code><br>
-<code>VLMs</code>
-</td>
-<td align="center">
-<code>NumPy</code><br>
-<code>Pandas</code><br>
-<code>Matplotlib</code><br>
-<code>Seaborn</code><br>
-<code>Computer Vision</code>
-</td>
-<td align="center">
-<code>Git</code><br>
-<code>GitHub</code>
-</td>
-</tr>
-</table>
+# ⚗ MY ARSENAL
 
 <p align="center">
-<sub>✦ THE STACK IS NOT A CHECKLIST. IT IS AN ARSENAL. ✦</sub>
+
+<a href="https://isocpp.org/" title="C++">
+  <img src="https://cdn.simpleicons.org/cplusplus/F5E6D3" width="48" alt="C++">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.python.org/" title="Python">
+  <img src="https://cdn.simpleicons.org/python/F5E6D3" width="48" alt="Python">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <img src="https://cdn.simpleicons.org/html5/F5E6D3" width="48" alt="HTML">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <img src="https://cdn.simpleicons.org/css3/F5E6D3" width="48" alt="CSS">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://cdn.simpleicons.org/git/F5E6D3" width="48" alt="Git">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/F5E6D3" width="48" alt="GitHub">
+</a>
+
+<br><br>
+
+<a href="https://numpy.org/" title="NumPy">
+  <img src="https://cdn.simpleicons.org/numpy/F5E6D3" width="48" alt="NumPy">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://pandas.pydata.org/" title="Pandas">
+  <img src="https://cdn.simpleicons.org/pandas/F5E6D3" width="48" alt="Pandas">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://pytorch.org/" title="PyTorch">
+  <img src="https://cdn.simpleicons.org/pytorch/F5E6D3" width="48" alt="PyTorch">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://matplotlib.org/" title="Matplotlib">
+  <img src="https://cdn.simpleicons.org/matplotlib/F5E6D3" width="48" alt="Matplotlib">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://seaborn.pydata.org/" title="Seaborn">
+  <img src="https://cdn.simpleicons.org/seaborn/F5E6D3" width="48" alt="Seaborn">
+</a>
+
+</p>
+
+<p align="center">
+  <sub>
+    C++ · Python · HTML · CSS · Git · GitHub · NumPy · Pandas · PyTorch ·
+    Matplotlib · Seaborn · NLP · Computer Vision · VLMs
+  </sub>
+</p>
+
+<p align="center">
+  <sub>✦ CLICK THE GLYPHS TO ENTER THE ARCHIVES ✦</sub>
 </p>
 
 ---
