@@ -1,73 +1,40 @@
-<div align="center">
+# 📜 ANNALS_OF_DEV // SCRIBE_01
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1810,50:5C3D2E,100:8B5E3C&height=200&section=header&text=Kartikeya&fontSize=60&fontColor=D4AF37&fontAlignY=38&animation=fadeIn" width="100%"/>
+> "This is how change happens, one gesture, one person, one moment at a time."
 
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=20&duration=2800&pause=700&color=D4AF37&center=true&vCenter=true&width=600&lines=DSA+%C2%B7+AI+%2F+ML+%C2%B7+Data+Analysis;Learning+in+public%2C+building+in+public" alt="Typing SVG" />
+---
 
-</div>
+### ⚔️ DIGITAL_ALCHEMIST_LOG
+Digital Alchemist & Tudor Digitalist. Crafting code like ancient scrolls on modern silicon. Based in the intersection of 16th-century aesthetics and 21st-century neural architectures.
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="60%" valign="middle">
+### 🛠️ THE_ARSENAL (TECH_STACK)
 
-### 🕯️ Who Goes There
+#### **[ LANGUAGES_&_MARKUP ]**
+*   **C++** (The Iron Foundation)
+*   **HTML5 / CSS3** (The Digital Parchment)
 
-Computer Engineering student. Building at the intersection of **DSA**, **AI/ML**, and **data analysis** — fundamentals first, then ship.
+#### **[ DATA_SCRIBERY_&_INTELLIGENCE ]**
+*   **Pythonic Rites:** NumPy, Pandas, Matplotlib, Seaborn
+*   **Alchemical Learning:** Scikit-Learn, PyTorch
+*   **Architectures:** CNN (Convolutional Neural Rituals), RNN (Recurrent Neural Incantations)
 
-> *"This is how change happens — one gesture, one person, one moment at a time."*
+#### **[ CORE_LOGIC ]**
+*   **DSA:** Data Structures & Algorithms Mastery
 
-</td>
-<td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="230"/>
-</td>
-</tr>
-</table>
+---
 
-<br/>
+### 🔮 CURRENT_ENDEAVORS
+- 🕯️ Training deep neural networks for scroll recognition.
+- 🖋️ Optimizing C++ kernels for faster alchemical computations.
+- 📂 Archiving the digital remnants of the Anachronist Collective.
 
-<div align="center">
+---
 
-## ⚔️ The Armory
+### 📡 TRANSMIT
+`[TERMINAL_ACCESS_GRANTED]`
+`> SSH SCRIBE_01@ANACHRONIST_COLLECTIVE`
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/scikit--learn-8B5E3C?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=D4AF37"/><br/><br/>
-<img src="https://img.shields.io/badge/Matplotlib-3E2723?style=for-the-badge&logo=plotly&logoColor=D4AF37"/>
-<img src="https://img.shields.io/badge/Seaborn-2C1810?style=for-the-badge&logo=python&logoColor=D4AF37"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="35%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="200"/>
-</td>
-<td width="65%" valign="middle">
-
-## 🏰 The Ledger
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=1A120B&title_color=D4AF37&icon_color=8B5E3C&text_color=E8D5B7&count_private=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=1A120B&ring=D4AF37&fire=8B5E3C&currStreakLabel=D4AF37" height="150"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A120B?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1A120B?style=for-the-badge&logo=gmail&logoColor=D4AF37"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E3C,50:5C3D2E,100:2C1810&height=90&section=footer"/>
-
-</div>
+© 1599-1999 THE_ANACHRONIST_COLLECTIVE
+[MANIFESTO] | [TRANSMIT] | [PRAYER_BOOK]
