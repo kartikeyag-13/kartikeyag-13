@@ -82,21 +82,18 @@ Loan approval prediction system using supervised learning on applicant data.
 </div>
 
 ---
-
 ### `~/contact`
-
+ 
 <div align="center">
-
-![GitHub](https://github.com/kartikeyag-13)
-![LinkedIn](www.linkedin.com/in/kartikeyagupta13)
-![Email](kartikeyagupta1313@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-kartikeyag--13-C724B1?style=flat-square&labelColor=0d1117&logo=github)](https://github.com/kartikeyag-13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikeyagupta13-C724B1?style=flat-square&labelColor=0d1117&logo=linkedin)](https://www.linkedin.com/in/kartikeyagupta13)
+[![Email](https://img.shields.io/badge/Email-kartikeyagupta1313%40gmail.com-C724B1?style=flat-square&labelColor=0d1117&logo=gmail)](mailto:kartikeyagupta1313@gmail.com)
+ 
 </div>
-
 <div align="center">
-
 ```
 $ echo "if you're working on edge AI, CV, or ML systems — reach out"
 ```
-
+ 
 </div>
+
