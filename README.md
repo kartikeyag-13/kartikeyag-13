@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="./assets/crt-boot.gif" width="850" alt="CRT boot sequence">
 </p>
 
@@ -170,3 +170,4 @@ REPEAT     → because mastery is mostly stubbornness.
   <br>
   <sub><i>crafted somewhere between a manuscript and a machine</i></sub>
 </p>
+](https://github.com/TherealArithmeticProgression?tab=overview&from=2026-09-01&to=2026-09-04)
